@@ -84,8 +84,8 @@ done before working with this repository.
 6. Twython
     You should be able to install Twython with:
 
-    pip install twython
+    pip3 install twython
 
     But if you have any issues you can check the 
     documentation here: 
-    https://twython.readthedocs.io/en/latest/usage/install.html
+    https://twython.readthedocs.io/en/latest/usage/install.htmlaw
